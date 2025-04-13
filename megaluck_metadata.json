@@ -1,0 +1,16 @@
+{
+  "name": "Test",
+  "symbol": "TEST",
+  "description": "A test token on Solana mainnet",
+  "image": "https://raw.githubusercontent.com/rajliu1/ticket_lottery/refs/heads/main/ticketlottery.jpg",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/rajliu1/ticket_lottery/refs/heads/main/ticketlottery.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image"
+  }
+}
