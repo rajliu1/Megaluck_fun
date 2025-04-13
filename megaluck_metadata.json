@@ -1,14 +1,14 @@
 {
-  "name": "Test",
-  "symbol": "TEST",
-  "description": "A test token on Solana mainnet",
-  "image": "https://raw.githubusercontent.com/rajliu1/ticket_lottery/refs/heads/main/ticketlottery.jpg",
+  "name": "megaluck",
+  "symbol": "MEGALUCK",
+  "description": " Fun mini-games and surprises await. Visit https://megaluck.fun to join the lucky adventure!",
+  "image": "https://raw.githubusercontent.com/rajliu1/Megaluck_fun/refs/heads/main/logo-min_w.png",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/rajliu1/ticket_lottery/refs/heads/main/ticketlottery.jpg",
-        "type": "image/jpeg"
+        "uri": "https://raw.githubusercontent.com/rajliu1/Megaluck_fun/refs/heads/main/logo-min_w.png",
+        "type": "image/png"
       }
     ],
     "category": "image"
